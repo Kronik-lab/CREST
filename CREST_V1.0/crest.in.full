@@ -14,7 +14,7 @@ use_DOS = true     # [DEFAULT]
 # from a bulk-like position in the slab
 extrapolate_bulklike_U = true     # [DEFAULT]
 # Interval in which U data in general is averaged (smoothed) to avoid numerical noise
-U_averaging_interval = 3.159     # Angstrom [DEFAULT]
+U_averaging_interval = 0.5     # Angstrom [DEFAULT]
 # Alternative interval in which bulk-like U data is averaged (relevant
 # only if extrapolate_bulklike_U = true)
 Ubl_averaging_interval = U_averaging_interval     # Angstrom [DEFAULT]
