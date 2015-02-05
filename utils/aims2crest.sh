@@ -6,7 +6,7 @@
 #         USAGE:  aims2crest.sh
 # 
 #   DESCRIPTION:  Takes output of aims calculation and creates a directory from
-#                 which aims can get information
+#                 which crest can get information
 # 
 #       CREATED:  03/02/2014 13:45:00 PM IDT
 #        AUTHOR:  Ofer Sinai
